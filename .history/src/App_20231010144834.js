@@ -1,4 +1,5 @@
-import Movie from './Movie/Movie'
+import './App.css'
+import Movie from './Movie'
 
 function App() {
   return <Movie />

@@ -1,4 +1,4 @@
-import Movie from './Movie/Movie'
+import Movie from './Movie'
 
 function App() {
   return <Movie />

@@ -1,0 +1,13 @@
+.movie-list {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 350px;
+  list-style: none;
+  border: 1px solid black;
+}
+
+.movie-list > img {
+  width: 250px;
+  height: 250px;
+}

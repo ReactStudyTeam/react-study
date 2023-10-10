@@ -1,0 +1,11 @@
+.movieLists {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  border: 1px solid black;
+  margin: auto;
+}
+
+.movieWrap > h1 {
+  text-align: center;
+}
